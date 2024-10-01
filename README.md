@@ -1,1 +1,1 @@
-# Databricks/Git Repo Tutorial
+# Databricks Associate Certification practice notebooks
